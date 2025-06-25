@@ -1,4 +1,6 @@
 import sys
+
+# Subtracting the numbers in order is equivalent to just subtracting the sum of the two lists
 def solution():
     total1 = total2 = 0 
     for line in sys.stdin: # Read from stdin
